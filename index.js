@@ -12,3 +12,5 @@ const removeActiveClassPanel = () => {
 		panel.classList.remove('active');
 	});
 };
+
+console.log('hello');
